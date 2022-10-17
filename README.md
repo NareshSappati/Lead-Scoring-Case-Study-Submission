@@ -11,3 +11,5 @@ Following are the files descriptions:
     Case study approach presentation.
 4. Lead Scoring Case Study Summary.pdf
     Summary of the case study.
+5. Leads.csv
+    Data file used to conduct this case study
